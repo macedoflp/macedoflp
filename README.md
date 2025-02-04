@@ -26,8 +26,8 @@ I'm a Computer Science student at UFMA and co-founder of MDK Studio, where I cre
   ##
 
 <div>
-  <img height='200em' src='https://github-readme-stats.vercel.app/api?username=macedoflp&show_icons=true&theme=radical'>
-  <img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=macedoflp&layout=compact'>
+  <img height='100em' src='https://github-readme-stats.vercel.app/api?username=macedoflp&show_icons=true&theme=radical'>
+  <img height='100em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=macedoflp&layout=compact'>
 </div>
   
   ##
